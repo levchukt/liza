@@ -25,8 +25,8 @@ header{
 
 .menu_link{
     text-decoration: none;
-    color: black;
-    font-size: 24px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
     background: rgb(255, 255, 255);
     padding: 5px 15px;
     border-radius: 5px;
@@ -42,7 +42,7 @@ header{
 }
 
 .catalog{
-    padding: 100px;
+    padding: 90px;
     text-align: center;
 }
 
@@ -56,54 +56,54 @@ header{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 70px;
 }
 
 .one_item{
-    width: 25%;
-    background-color: black;
+    width: 20%;
+    background-color: rgb(0, 0, 0);
     padding-bottom: 30px;
     border-radius: 30px;
     overflow: hidden;
-    box-shadow: 0px 0px 10px 0 black;
+    box-shadow: 0px 0px 10px 0 rgb(0, 0, 0);
 }
 
 .one_item img{
-    width:100%;
+    width: 100%;
 }
 
 .name{
     color:aliceblue;
-    font-size: 24px;
+    font-size: 23px;
 }
 
 .buy{
     text-decoration: none;
-    color:black;
-    background-color:aliceblue;
-    font-size:20px;
+    color:rgb(0, 0, 0);
+    background-color:rgb(52, 0, 0);
+    font-size: 20px;
     padding: 5px 35px;
-    border-radius: 15px;
+    border-radius: 5px;
 
 }
 
 .price{
-    color: rgb(255, 230, 184);
+    color: rgb(148, 0, 0);
 }
 
 .search_btn{
     padding: 5px 25px;
     border-radius: 0 20px 20px 0;
-    background-color: rgb(90, 0, 0);
+    background-color: rgb(65, 65, 65);
     border: none;
 }
 
 .search{
-    width: 30%;
+    width: 25%;
     display: flex;
     position: fixed;
     z-index: 2;
-    height: 50px;
+    height: 40px;
     top: 15%;
     left: -12%;
     transition: 0.3s all linear;
@@ -143,6 +143,7 @@ header{
     justify-content: start;
     width: 100%;
     background-color: rgb(24, 24, 24);
+    color: #fff;
     padding: 20px;
     border-radius: 20px;
     -webkit-box-shadow: -26px 20px 14px -3px rgba(0,0,0,0.37);

@@ -52,7 +52,7 @@
     {
         "title": "Apartment of Death",
         "price": "1.99$",
-        "image": "header.jpg"
+        "image": "Apartment of Death.jpg"
     },
     {
         "title": "Horror Adventure",
@@ -67,11 +67,22 @@
     {
         "title": "outlive ",
         "price": "8.00$",
-        "image": "capsule_616x353.jpg"
+        "image": "header (1).jpg"
     },
     {
-        "title": "unfollow",
-        "price": "11.99$",
-        "image": "header.jpg"
+        "title": "undertale",
+        "price": "6.99$",
+        "image": "завантаження.jpg"
+    },
+    {
+        "title": "last seen online",
+        "price": "7.00$",
+        "image": "maxresdefault (1).jpg"
+    },
+    {
+        "title": "FNAF 4",
+        "price": "10.99$",
+        "image": "FNAF4_cover.jpg"
     }
 ]
+
